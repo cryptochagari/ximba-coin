@@ -1,0 +1,11 @@
+{
+  "name": "XIMBA THE AFRICAN COIN",
+  "symbol": "XAC",
+  "description": "Ximba is The African Coin, designed for borderless trade, financial inclusion, and community empowerment across Africa.",
+  "image": "https://cryptochagari.github.io/ximba-coin/logo.png",
+  "external_url": "https://your-username.github.io/ximba-coin",
+  "attributes": [
+    { "trait_type": "Region", "value": "Africa" },
+    { "trait_type": "Utility", "value": "Payments & Trade" }
+  ]
+}
